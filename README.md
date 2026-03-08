@@ -37,7 +37,6 @@ Working
 • Then the location is shown on the OLED screen.
 • This is how the people helping the user know where they are.
 • The system also sends the location to an application or a web platform using Wi-Fi.
-• This way everyone who needs to know is informed.
 • If needed, the relay module can even turn on a forest monitoring camera or a drone.
 • This helps with surveillance and rescue operations.
 • The system always checks the battery level.
